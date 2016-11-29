@@ -1,0 +1,3 @@
+** nibbler **
+
+Multiplayer snake game, using dynamic librarie loading and interface to be able to work on QT, SFML or ncurses
